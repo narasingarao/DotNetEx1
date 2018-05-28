@@ -1,0 +1,11 @@
+C:\Users\nara_\Documents\project2\dotnetex1\bin\Debug\netcoreapp2.0\dotnetex1.deps.json
+C:\Users\nara_\Documents\project2\dotnetex1\bin\Debug\netcoreapp2.0\dotnetex1.runtimeconfig.json
+C:\Users\nara_\Documents\project2\dotnetex1\bin\Debug\netcoreapp2.0\dotnetex1.runtimeconfig.dev.json
+C:\Users\nara_\Documents\project2\dotnetex1\bin\Debug\netcoreapp2.0\dotnetex1.dll
+C:\Users\nara_\Documents\project2\dotnetex1\bin\Debug\netcoreapp2.0\dotnetex1.pdb
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.csprojAssemblyReference.cache
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.csproj.CoreCompileInputs.cache
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.AssemblyInfoInputs.cache
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.AssemblyInfo.cs
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.dll
+C:\Users\nara_\Documents\project2\dotnetex1\obj\Debug\netcoreapp2.0\dotnetex1.pdb
